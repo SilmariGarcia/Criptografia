@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1680571969 source:c:\users\uaer\onedrive\Área de trabalho\semestre 2.2022\trabalho_labp\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
+1689457578 source:c:\users\uaer\downloads\trabalho_de_criptografia\trabalho_de_criptografia\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
